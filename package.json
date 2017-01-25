@@ -1,0 +1,14 @@
+{
+  "name": "jsstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flashbax/jsstack.git",
+  "author": "flashbax <jkwitco@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^1.0.3"
+  }
+}
